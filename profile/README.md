@@ -18,6 +18,7 @@ The bot has three parts:
 
 ## Contribute
 
+- To ask a question, use [Q&A in Discussions](https://github.com/open-trading-bot/open-trading-bot/discussions/categories/q-a).
 - Open an issue to report a bug or to discuss a change.
 - Do not report security vulnerabilities in public issues. Read the [security policy](https://github.com/open-trading-bot/open-trading-bot/blob/main/SECURITY.md).
 
