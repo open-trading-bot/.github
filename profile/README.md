@@ -1,6 +1,6 @@
 # open-trading-bot
 
-An open-source algorithmic crypto trading bot for [Bybit](https://www.bybit.com), with the strategies as a separate package.
+This is an open-source algorithmic crypto trading bot for [Bybit](https://www.bybit.com). The strategies are also available as a separate package.
 
 The bot runs your strategies at a fixed interval and applies your risk limits. You can test a strategy on historical data, then run it in paper mode or on the Bybit testnet.
 
