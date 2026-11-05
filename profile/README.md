@@ -16,7 +16,7 @@ The bot runs your strategies at a fixed interval and applies your risk limits. Y
 ## Open source
 
 - [open-trading-bot](https://github.com/open-trading-bot/open-trading-bot): the bot, with the server, the dashboard and the backoffice (MIT).
-- [strategies](https://github.com/open-trading-bot/strategies): the strategies and a backtester, with no server, database or exchange keys. Install it with `npm install @open-trading-bot/strategies` (MIT).
+- [strategies](https://github.com/open-trading-bot/strategies): the strategies and a backtester, as an npm package (MIT).
 
 ## Contribute
 
