@@ -15,6 +15,7 @@ The bot runs your strategies at a fixed interval and applies your risk limits. Y
 
 ## Open source
 
+- [Live demo](https://open-trading-bot.vercel.app): the dashboard with sample data and real backtests, with no sign-up.
 - [open-trading-bot](https://github.com/open-trading-bot/open-trading-bot): the bot, with the server, the dashboard and the backoffice (MIT).
 - [strategies](https://github.com/open-trading-bot/strategies): the strategies and a backtester, as an npm package (MIT).
 
